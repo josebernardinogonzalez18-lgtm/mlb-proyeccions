@@ -1,0 +1,18 @@
+fecha,matchup,hom_team,away_team,hom_pitcher,away_pitcher,park_factor,hom_runs,away_runs,total_runs,ml_local_%,ml_visitante_%,cuota_local,cuota_visitante,pick_ev,stake_rec
+2026-09-25,Chicago Cubs @ Boston Red Sox,Boston Red Sox,Chicago Cubs,Alec Gamboa,Clay Holmes,1.08,3.82,4.44,8.57,48.1,51.9,1.9803921568627452,1.8620689655172413,Sin Valor Claro,0%
+2026-09-25,Chicago Cubs @ Boston Red Sox,Boston Red Sox,Chicago Cubs,Brayan Bello,David Peterson,1.08,3.82,4.44,8.57,48.1,51.9,1.9803921568627452,1.8620689655172413,Sin Valor Claro,0%
+2026-09-25,Baltimore Orioles @ New York Yankees,New York Yankees,Baltimore Orioles,TBD,Trevor Rogers,0.98,4.32,4.17,8.75,55.3,44.7,1.7692307692307692,2.1,Sin Valor Claro,0%
+2026-09-25,Baltimore Orioles @ New York Yankees,New York Yankees,Baltimore Orioles,Brendan Beck,Brandon Young,0.98,4.32,4.17,8.75,55.3,44.7,1.7692307692307692,2.1,Sin Valor Claro,0%
+2026-09-25,Pittsburgh Pirates @ Detroit Tigers,Detroit Tigers,Pittsburgh Pirates,Jackson Jobe,Bubba Chandler,0.95,4.32,3.75,8.55,51.2,48.8,1.925925925925926,1.925925925925926,Sin Valor Claro,0%
+2026-09-25,Tampa Bay Rays @ Philadelphia Phillies,Philadelphia Phillies,Tampa Bay Rays,Cristopher Sánchez,Freddy Peralta,1.06,3.97,4.2,8.43,45.0,55.0,1.5617977528089888,2.5,Visitante (+EV 37.5%),6.3%
+2026-09-25,New York Mets @ Washington Nationals,Washington Nationals,New York Mets,Andrew Alvarez,TBD,0.97,4.73,4.21,8.65,54.1,45.9,1.925925925925926,1.925925925925926,Local (+EV 4.2%),1.1%
+2026-09-25,Cincinnati Reds @ Toronto Blue Jays,Toronto Blue Jays,Cincinnati Reds,TBD,Nick Lodolo,0.98,4.35,4.47,8.54,53.6,46.4,1.704225352112676,2.2,Sin Valor Claro,0%
+2026-09-25,Atlanta Braves @ Miami Marlins,Miami Marlins,Atlanta Braves,Eury Pérez,TBD,0.93,3.95,3.74,8.21,50.3,49.7,2.0,1.847457627118644,Sin Valor Claro,0%
+2026-09-25,Cleveland Guardians @ Kansas City Royals,Kansas City Royals,Cleveland Guardians,Noah Cameron,Gavin Williams,1.05,4.32,4.75,9.0,45.4,54.6,2.2,1.704225352112676,Sin Valor Claro,0%
+2026-09-25,Colorado Rockies @ Chicago White Sox,Chicago White Sox,Colorado Rockies,Sean Burke,Tomoyuki Sugano,1.0,4.8,3.8,8.63,55.5,44.5,1.4166666666666667,2.94,Visitante (+EV 30.8%),4.0%
+2026-09-25,St. Louis Cardinals @ Milwaukee Brewers,Milwaukee Brewers,St. Louis Cardinals,Robert Gasser,Michael McGreevy,0.99,4.66,3.93,9.13,54.5,45.5,1.526315789473684,2.6,Visitante (+EV 18.3%),2.9%
+2026-09-25,Texas Rangers @ Minnesota Twins,Minnesota Twins,Texas Rangers,Joe Ryan,Jacob deGrom,1.0,4.41,4.45,9.01,48.2,51.8,1.9433962264150944,1.9090909090909092,Sin Valor Claro,0%
+2026-09-25,Houston Astros @ Athletics,Athletics,Houston Astros,Jacob Lopez,Hunter Brown,0.96,4.44,5.19,10.45,50.4,49.6,2.44,1.5813953488372094,Local (+EV 23.0%),4.0%
+2026-09-25,Arizona Diamondbacks @ San Diego Padres,San Diego Padres,Arizona Diamondbacks,TBD,Brandon Pfaadt,0.92,4.14,4.3,8.11,46.9,53.1,1.7462686567164178,2.1399999999999997,Visitante (+EV 13.6%),3.0%
+2026-09-25,Los Angeles Angels @ Seattle Mariners,Seattle Mariners,Los Angeles Angels,Bryce Miller,Reid Detmers,0.91,5.2,3.99,9.09,57.5,42.5,1.8333333333333335,2.02,Local (+EV 5.4%),1.6%
+2026-09-25,Los Angeles Dodgers @ San Francisco Giants,San Francisco Giants,Los Angeles Dodgers,Yunior Marte,Tarik Skubal,0.95,4.47,3.95,8.57,51.3,48.7,3.8,1.2857142857142856,Local (+EV 94.9%),8.5%
