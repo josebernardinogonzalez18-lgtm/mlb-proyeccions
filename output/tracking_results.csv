@@ -220,3 +220,20 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-09-24,Houston Astros @ Athletics,away,away,True,9.82,12,2.1799999999999997,True,Local (+EV 10.7%),2.0,-2.0
 2026-09-24,Los Angeles Angels @ Seattle Mariners,home,away,False,8.5,10,1.5,True,Visitante (+EV 31.1%),4.4,7.744
 2026-09-24,San Diego Padres @ Los Angeles Dodgers,home,away,False,8.65,6,2.6500000000000004,True,Visitante (+EV 22.5%),3.9,5.694
+2026-09-25,Chicago Cubs @ Boston Red Sox,away,home,False,8.57,2,6.57,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Chicago Cubs @ Boston Red Sox,away,home,False,8.57,2,6.57,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Baltimore Orioles @ New York Yankees,home,home,True,8.75,9,0.25,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Baltimore Orioles @ New York Yankees,home,home,True,8.75,9,0.25,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Pittsburgh Pirates @ Detroit Tigers,home,home,True,8.55,15,6.449999999999999,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Tampa Bay Rays @ Philadelphia Phillies,away,away,True,8.43,2,6.43,True,Visitante (+EV 37.5%),6.3,9.45
+2026-09-25,New York Mets @ Washington Nationals,home,home,True,8.65,13,4.35,True,Local (+EV 4.2%),1.1,1.0185185185185188
+2026-09-25,Cincinnati Reds @ Toronto Blue Jays,home,home,True,8.54,11,2.460000000000001,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Atlanta Braves @ Miami Marlins,home,home,True,8.21,3,5.210000000000001,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Cleveland Guardians @ Kansas City Royals,away,away,True,9.0,21,12.0,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Colorado Rockies @ Chicago White Sox,home,home,True,8.63,7,1.6300000000000008,True,Visitante (+EV 30.8%),4.0,-4.0
+2026-09-25,St. Louis Cardinals @ Milwaukee Brewers,home,home,True,9.13,12,2.869999999999999,True,Visitante (+EV 18.3%),2.9,-2.9
+2026-09-25,Texas Rangers @ Minnesota Twins,away,home,False,9.01,12,2.99,False,Sin Valor Claro,0.0,0.0
+2026-09-25,Houston Astros @ Athletics,home,home,True,10.45,11,0.5500000000000007,True,Local (+EV 23.0%),4.0,5.76
+2026-09-25,Arizona Diamondbacks @ San Diego Padres,away,away,True,8.11,15,6.890000000000001,True,Visitante (+EV 13.6%),3.0,3.4200000000000004
+2026-09-25,Los Angeles Angels @ Seattle Mariners,home,away,False,9.09,12,2.91,True,Local (+EV 5.4%),1.6,-1.6
+2026-09-25,Los Angeles Dodgers @ San Francisco Giants,home,away,False,8.57,2,6.57,True,Local (+EV 94.9%),8.5,-8.5
