@@ -237,3 +237,16 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-09-25,Arizona Diamondbacks @ San Diego Padres,away,away,True,8.11,15,6.890000000000001,True,Visitante (+EV 13.6%),3.0,3.4200000000000004
 2026-09-25,Los Angeles Angels @ Seattle Mariners,home,away,False,9.09,12,2.91,True,Local (+EV 5.4%),1.6,-1.6
 2026-09-25,Los Angeles Dodgers @ San Francisco Giants,home,away,False,8.57,2,6.57,True,Local (+EV 94.9%),8.5,-8.5
+2026-09-26,New York Mets @ Washington Nationals,home,away,False,8.68,8,0.6799999999999997,True,Local (+EV 9.6%),2.6,-2.6
+2026-09-26,Pittsburgh Pirates @ Detroit Tigers,home,home,True,8.69,7,1.6899999999999995,False,Sin Valor Claro,0.0,0.0
+2026-09-26,Cincinnati Reds @ Toronto Blue Jays,home,away,False,8.36,6,2.3599999999999994,True,Visitante (+EV 15.2%),2.8,3.8080000000000007
+2026-09-26,Los Angeles Dodgers @ San Francisco Giants,away,away,True,8.53,7,1.5299999999999994,True,Local (+EV 70.8%),7.200000000000001,-7.200000000000001
+2026-09-26,Texas Rangers @ Minnesota Twins,away,away,True,9.0,8,1.0,False,Sin Valor Claro,0.0,0.0
+2026-09-26,Atlanta Braves @ Miami Marlins,home,away,False,8.29,11,2.710000000000001,False,Sin Valor Claro,0.0,0.0
+2026-09-26,Cleveland Guardians @ Kansas City Royals,away,away,True,9.31,16,6.6899999999999995,False,Sin Valor Claro,0.0,0.0
+2026-09-26,Colorado Rockies @ Chicago White Sox,home,away,False,8.85,15,6.15,True,Visitante (+EV 23.8%),3.1,6.014
+2026-09-26,St. Louis Cardinals @ Milwaukee Brewers,home,home,True,9.19,5,4.1899999999999995,True,Visitante (+EV 7.6%),1.4,-1.4
+2026-09-26,Tampa Bay Rays @ Philadelphia Phillies,away,away,True,8.26,13,4.74,True,Visitante (+EV 5.8%),1.6,1.4545454545454541
+2026-09-26,Arizona Diamondbacks @ San Diego Padres,home,home,True,8.6,17,8.4,False,Sin Valor Claro,0.0,0.0
+2026-09-26,Houston Astros @ Athletics,away,away,True,10.79,15,4.210000000000001,True,Local (+EV 10.2%),2.0,-2.0
+2026-09-26,Los Angeles Angels @ Seattle Mariners,home,home,True,8.53,12,3.4700000000000006,False,Sin Valor Claro,0.0,0.0
