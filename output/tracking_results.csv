@@ -250,3 +250,18 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-09-26,Arizona Diamondbacks @ San Diego Padres,home,home,True,8.6,17,8.4,False,Sin Valor Claro,0.0,0.0
 2026-09-26,Houston Astros @ Athletics,away,away,True,10.79,15,4.210000000000001,True,Local (+EV 10.2%),2.0,-2.0
 2026-09-26,Los Angeles Angels @ Seattle Mariners,home,home,True,8.53,12,3.4700000000000006,False,Sin Valor Claro,0.0,0.0
+2026-09-27,New York Mets @ Washington Nationals,home,home,True,8.55,10,1.4499999999999993,False,Sin Valor Claro,0.0,0.0
+2026-09-27,Baltimore Orioles @ New York Yankees,home,away,False,8.84,0,8.84,False,Sin Valor Claro,0.0,0.0
+2026-09-27,Tampa Bay Rays @ Philadelphia Phillies,away,home,False,8.97,10,1.0299999999999994,True,Visitante (+EV 31.4%),5.5,-5.5
+2026-09-27,Chicago Cubs @ Boston Red Sox,home,away,False,8.59,8,0.5899999999999999,False,Sin Valor Claro,0.0,0.0
+2026-09-27,Houston Astros @ Athletics,away,away,True,10.26,9,1.2599999999999998,True,Local (+EV 13.9%),2.2,-2.2
+2026-09-27,Los Angeles Dodgers @ San Francisco Giants,away,away,True,8.83,6,2.83,True,Local (+EV 46.9%),5.6,-5.6
+2026-09-27,Cincinnati Reds @ Toronto Blue Jays,home,home,True,8.62,6,2.619999999999999,True,Visitante (+EV 12.0%),2.1,-2.1
+2026-09-27,Cleveland Guardians @ Kansas City Royals,away,home,False,9.27,5,4.27,True,Visitante (+EV 5.6%),1.6,-1.6
+2026-09-27,Pittsburgh Pirates @ Detroit Tigers,home,away,False,8.57,6,2.5700000000000003,True,Local (+EV 10.6%),2.7,-2.7
+2026-09-27,Arizona Diamondbacks @ San Diego Padres,away,home,False,8.87,13,4.130000000000001,True,Local (+EV 13.0%),2.4,3.2159999999999997
+2026-09-27,Los Angeles Angels @ Seattle Mariners,home,home,True,8.62,10,1.3800000000000008,False,Sin Valor Claro,0.0,0.0
+2026-09-27,Texas Rangers @ Minnesota Twins,away,home,False,9.24,10,0.7599999999999998,False,Sin Valor Claro,0.0,0.0
+2026-09-27,Colorado Rockies @ Chicago White Sox,home,home,True,9.21,6,3.210000000000001,False,Sin Valor Claro,0.0,0.0
+2026-09-27,Atlanta Braves @ Miami Marlins,home,home,True,8.34,8,0.33999999999999986,False,Sin Valor Claro,0.0,0.0
+2026-09-27,St. Louis Cardinals @ Milwaukee Brewers,away,home,False,8.86,10,1.1400000000000006,True,Visitante (+EV 37.8%),5.6,-5.6
