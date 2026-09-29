@@ -1,0 +1,5 @@
+fecha,matchup,hom_team,away_team,hom_pitcher,away_pitcher,park_factor,hom_runs,away_runs,total_runs,ml_local_%,ml_visitante_%,cuota_local,cuota_visitante,pick_ev,stake_rec
+2026-09-29,Philadelphia Phillies @ Atlanta Braves,Atlanta Braves,Philadelphia Phillies,Chris Sale,Jesús Luzardo,1.01,4.55,4.42,8.47,53.7,46.3,1.5208333333333335,2.58,Visitante (+EV 19.5%),3.1%
+2026-09-29,Chicago White Sox @ Houston Astros,Houston Astros,Chicago White Sox,AJ Blubaugh,Hagen Smith,0.98,4.48,3.93,8.69,51.5,48.5,1.8130081300813008,2.02,Sin Valor Claro,0%
+2026-09-29,Boston Red Sox @ New York Yankees,New York Yankees,Boston Red Sox,Cam Schlittler,Payton Tolle,0.98,4.13,4.01,8.29,54.2,45.8,1.7194244604316546,2.16,Sin Valor Claro,0%
+2026-09-29,Chicago Cubs @ San Diego Padres,San Diego Padres,Chicago Cubs,Michael King,Matthew Boyd,0.92,4.06,4.56,9.33,49.6,50.4,1.7936507936507935,2.08,Visitante (+EV 4.8%),1.1%
