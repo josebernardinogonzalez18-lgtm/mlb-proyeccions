@@ -1,0 +1,5 @@
+fecha,matchup,hom_team,away_team,hom_pitcher,away_pitcher,park_factor,hom_runs,away_runs,total_runs,ml_local_%,ml_visitante_%,cuota_local,cuota_visitante,pick_ev,stake_rec
+2026-09-30,Philadelphia Phillies @ Atlanta Braves,Atlanta Braves,Philadelphia Phillies,Tyler Mahle,Cristopher Sánchez,1.01,4.63,4.42,8.47,53.7,46.3,2.0,1.847457627118644,Local (+EV 7.4%),1.9%
+2026-09-30,Chicago White Sox @ Houston Astros,Houston Astros,Chicago White Sox,Hunter Brown,Sean Burke,0.98,4.51,3.93,8.69,51.5,48.5,1.6451612903225805,2.2800000000000002,Visitante (+EV 10.6%),2.1%
+2026-09-30,Boston Red Sox @ New York Yankees,New York Yankees,Boston Red Sox,Max Fried,Sonny Gray,0.98,4.16,4.01,8.29,54.2,45.8,1.7462686567164178,2.16,Sin Valor Claro,0%
+2026-09-30,Chicago Cubs @ San Diego Padres,San Diego Padres,Chicago Cubs,Nick Pivetta,Kevin Gausman,0.92,4.14,4.56,9.33,49.6,50.4,1.6944444444444444,2.2199999999999998,Visitante (+EV 11.9%),2.4%
