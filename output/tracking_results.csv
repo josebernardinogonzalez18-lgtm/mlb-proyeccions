@@ -273,3 +273,4 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-09-30,Chicago White Sox @ Houston Astros,home,away,False,8.69,10,1.3100000000000005,True,Visitante (+EV 10.6%),2.1,2.6879999999999997
 2026-09-30,Boston Red Sox @ New York Yankees,home,home,True,8.29,11,2.710000000000001,False,Sin Valor Claro,0.0,0.0
 2026-09-30,Chicago Cubs @ San Diego Padres,away,home,False,9.33,5,4.33,True,Visitante (+EV 11.9%),2.4,-2.4
+2026-10-01,Philadelphia Phillies @ Atlanta Braves,home,home,True,8.47,8,0.47000000000000064,True,Local (+EV 4.4%),1.2,1.1320754716981132
