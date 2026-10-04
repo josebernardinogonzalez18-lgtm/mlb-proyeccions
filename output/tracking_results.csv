@@ -274,3 +274,7 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-09-30,Boston Red Sox @ New York Yankees,home,home,True,8.29,11,2.710000000000001,False,Sin Valor Claro,0.0,0.0
 2026-09-30,Chicago Cubs @ San Diego Padres,away,home,False,9.33,5,4.33,True,Visitante (+EV 11.9%),2.4,-2.4
 2026-10-01,Philadelphia Phillies @ Atlanta Braves,home,home,True,8.47,8,0.47000000000000064,True,Local (+EV 4.4%),1.2,1.1320754716981132
+2026-10-03,Chicago White Sox @ Cleveland Guardians,home,away,False,8.77,3,5.77,True,Visitante (+EV 8.0%),1.6,2.0159999999999996
+2026-10-03,Atlanta Braves @ Los Angeles Dodgers,home,home,True,8.95,8,0.9499999999999993,True,Visitante (+EV 32.4%),4.7,-4.7
+2026-10-03,New York Yankees @ Tampa Bay Rays,home,home,True,8.35,1,7.35,True,Visitante (+EV 6.1%),1.3,-1.3
+2026-10-03,San Diego Padres @ Milwaukee Brewers,home,home,True,8.54,5,3.539999999999999,True,Visitante (+EV 35.6%),5.0,-5.0
