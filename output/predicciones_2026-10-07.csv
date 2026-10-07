@@ -1,0 +1,5 @@
+fecha,matchup,hom_team,away_team,hom_pitcher,away_pitcher,park_factor,hom_runs,away_runs,total_runs,ml_local_%,ml_visitante_%,cuota_local,cuota_visitante,pick_ev,stake_rec
+2026-10-07,Cleveland Guardians @ Chicago White Sox,Chicago White Sox,Cleveland Guardians,Sean Newcomb,Daniel Espino,1.0,4.36,4.01,8.06,46.7,53.3,1.7692307692307692,2.1,Visitante (+EV 11.9%),2.7%
+2026-10-07,Los Angeles Dodgers @ Atlanta Braves,Atlanta Braves,Los Angeles Dodgers,Tyler Mahle,Tyler Glasnow,1.01,5.94,4.32,8.75,52.1,47.9,2.2800000000000002,1.6451612903225805,Local (+EV 18.8%),3.7%
+2026-10-07,Tampa Bay Rays @ New York Yankees,New York Yankees,Tampa Bay Rays,Max Fried,Nick Martinez,0.98,4.09,3.94,8.13,50.7,49.3,1.5952380952380953,2.42,Visitante (+EV 19.3%),3.4%
+2026-10-07,Milwaukee Brewers @ San Diego Padres,San Diego Padres,Milwaukee Brewers,Walker Buehler,TBD,0.92,4.25,3.94,8.62,54.8,45.2,1.9090909090909092,1.9433962264150944,Local (+EV 4.6%),1.3%
