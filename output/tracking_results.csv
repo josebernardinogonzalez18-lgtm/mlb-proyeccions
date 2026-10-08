@@ -284,3 +284,7 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-10-05,New York Yankees @ Tampa Bay Rays,home,home,True,8.35,7,1.3499999999999996,False,Sin Valor Claro,0.0,0.0
 2026-10-06,Los Angeles Dodgers @ Atlanta Braves,home,away,False,8.75,4,4.75,False,Sin Valor Claro,0.0,0.0
 2026-10-06,Milwaukee Brewers @ San Diego Padres,home,home,True,8.62,7,1.6199999999999992,False,Sin Valor Claro,0.0,0.0
+2026-10-07,Cleveland Guardians @ Chicago White Sox,away,away,True,8.06,12,3.9399999999999995,True,Visitante (+EV 11.9%),2.7,2.9700000000000006
+2026-10-07,Los Angeles Dodgers @ Atlanta Braves,home,away,False,8.75,5,3.75,True,Local (+EV 18.8%),3.7000000000000006,-3.7000000000000006
+2026-10-07,Tampa Bay Rays @ New York Yankees,home,away,False,8.13,7,1.1300000000000008,True,Visitante (+EV 19.3%),3.4000000000000004,4.828
+2026-10-07,Milwaukee Brewers @ San Diego Padres,home,away,False,8.62,4,4.619999999999999,True,Local (+EV 4.6%),1.3,-1.3
