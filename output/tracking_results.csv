@@ -291,3 +291,5 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-10-08,Cleveland Guardians @ Chicago White Sox,away,away,True,8.06,14,5.9399999999999995,False,Sin Valor Claro,0.0,0.0
 2026-10-10,Chicago White Sox @ Cleveland Guardians,home,home,True,8.77,2,6.77,True,Visitante (+EV 5.2%),1.1,-1.1
 2026-10-11,Los Angeles Dodgers @ Milwaukee Brewers,home,home,True,8.6,3,5.6,False,Sin Valor Claro,0.0,0.0
+2026-10-12,Los Angeles Dodgers @ Milwaukee Brewers,home,home,True,8.6,11,2.4000000000000004,True,Local (+EV 11.0%),2.4,2.7840000000000003
+2026-10-12,Cleveland Guardians @ Tampa Bay Rays,home,away,False,8.32,10,1.6799999999999997,True,Visitante (+EV 12.7%),2.2,3.168
