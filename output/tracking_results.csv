@@ -294,3 +294,4 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-10-12,Los Angeles Dodgers @ Milwaukee Brewers,home,home,True,8.6,11,2.4000000000000004,True,Local (+EV 11.0%),2.4,2.7840000000000003
 2026-10-12,Cleveland Guardians @ Tampa Bay Rays,home,away,False,8.32,10,1.6799999999999997,True,Visitante (+EV 12.7%),2.2,3.168
 2026-10-13,Cleveland Guardians @ Tampa Bay Rays,home,home,True,8.32,4,4.32,False,Sin Valor Claro,0.0,0.0
+2026-10-14,Milwaukee Brewers @ Los Angeles Dodgers,home,away,False,8.77,8,0.7699999999999996,True,Visitante (+EV 15.9%),2.7,3.942

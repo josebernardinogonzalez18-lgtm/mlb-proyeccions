@@ -1,0 +1,3 @@
+fecha,matchup,hom_team,away_team,hom_pitcher,away_pitcher,park_factor,hom_runs,away_runs,total_runs,ml_local_%,ml_visitante_%,cuota_local,cuota_visitante,pick_ev,stake_rec
+2026-10-15,Tampa Bay Rays @ Cleveland Guardians,Cleveland Guardians,Tampa Bay Rays,Gavin Williams,Griffin Jax,0.94,4.39,4.1,8.24,50.8,49.2,1.78125,2.12,Visitante (+EV 4.3%),1.0%
+2026-10-15,Milwaukee Brewers @ Los Angeles Dodgers,Los Angeles Dodgers,Milwaukee Brewers,Tyler Glasnow,TBD,1.01,4.67,4.08,8.77,52.9,47.1,1.6369426751592355,2.3,Visitante (+EV 8.3%),1.6%
