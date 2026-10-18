@@ -298,3 +298,4 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-10-15,Tampa Bay Rays @ Cleveland Guardians,home,home,True,8.24,5,3.24,True,Visitante (+EV 4.3%),1.0,-1.0
 2026-10-15,Milwaukee Brewers @ Los Angeles Dodgers,home,away,False,8.77,10,1.2300000000000004,True,Visitante (+EV 8.3%),1.6,2.0799999999999996
 2026-10-16,Tampa Bay Rays @ Cleveland Guardians,home,away,False,8.24,0,8.24,False,Sin Valor Claro,0.0,0.0
+2026-10-17,Tampa Bay Rays @ Cleveland Guardians,home,away,False,8.24,10,1.7599999999999998,False,Sin Valor Claro,0.0,0.0
