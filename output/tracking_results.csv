@@ -301,3 +301,4 @@ fecha,matchup,pred_winner,real_winner,ml_correct,pred_total,real_total,total_err
 2026-10-17,Tampa Bay Rays @ Cleveland Guardians,home,away,False,8.24,10,1.7599999999999998,False,Sin Valor Claro,0.0,0.0
 2026-10-18,Tampa Bay Rays @ Cleveland Guardians,home,away,False,8.24,4,4.24,True,Local (+EV 6.7%),1.5,-1.5
 2026-10-19,Cleveland Guardians @ Tampa Bay Rays,home,home,True,8.32,10,1.6799999999999997,True,Visitante (+EV 6.3%),1.2,-1.2
+2026-10-23,Tampa Bay Rays @ Milwaukee Brewers,home,home,True,8.48,5,3.4800000000000004,True,Visitante (+EV 24.3%),3.8,-3.8
